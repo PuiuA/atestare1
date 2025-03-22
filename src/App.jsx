@@ -1,5 +1,9 @@
+import Container from "./Container.jsx";
+
 function App() {
-    return <></>;
+    return <>
+    <Container></Container>
+    </>;
 }
 
 export default App;
